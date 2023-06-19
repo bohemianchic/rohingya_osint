@@ -9,7 +9,7 @@ This dissertation explores the framing of the Rohingya issue in Myanmar by gover
 ## About this Repository
 This repository contains the PhD thesis written by **Jean Linis-Dinco**. This work was undertaken at the [**University of New South Wales, Canberra**](https://www.unsw.adfa.edu.au/). This thesis was supervised by Associate Professor [**Benjamin Turnbull**](https://www.unsw.adfa.edu.au/benjamin-turnbull) and [**Professor Stephen Doherty**](https://www.unsw.edu.au/staff/stephen-doherty).
 
-**Contact:** Jean Dinco (jcldinco@jcldinco.com, or my [linkedin](https://www.linkedin.com/in/jeandinco/)
+**Contact:** Jean Dinco (jcldinco@jcldinco.com) , or my [linkedin](https://www.linkedin.com/in/jeandinco/)
 
 I kindly ask that when citing this work, please use the following BibTeX entry:
 
