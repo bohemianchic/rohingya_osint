@@ -21,7 +21,7 @@ The dataset consists of the following files:
   - Phase : contains the conflict phase when the tweet was tweeted, represented by the respective values 1, 2, and 3.
 
 
-- **news_reports.txt**: The file follows a tabular structure with the following columns:
+- **news_reports.pkl**: The file follows a tabular structure with the following columns:
   - Publication_Date: date the news report was published. In %d-%b-%y format
   - Origin: {Times of India' : 1, 'Hindustan Times':2 ,'Daily Star':3, 'Dhaka Tribune':4,'New York Times':5, 'Washington Post': 6}
   - Origin_Body: contains the raw news report
