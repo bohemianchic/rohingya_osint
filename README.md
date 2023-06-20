@@ -14,7 +14,7 @@ This repository contains the PhD thesis written by **Jean Linis-Dinco**. This wo
 I kindly ask that when citing this work, please use the following BibTeX entry:
 
 ```
-@phdthesis{maxwell2019thesis,
+@phdthesis{dincothesis2023,
   title={Framing the Rohingya Crisis: A Data-Driven Multi-country Analysis of Government-Media-Citizen Relations in Spectator Countries},
   author={Dinco, Jean},
   school={University of New South Wales},
