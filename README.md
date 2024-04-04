@@ -1,6 +1,6 @@
-# A Data-Driven Multi-country Analysis Re rohingya
+# OSINT on Rohingya Crisis (2016-2019)
 
-This a doctoral research leverages open-source intelligence and unsupervised machine learning techniques to analyse and assess the variation of frames within a dataset comprising social media posts, news reports and government documents surrounding the Rohingya crisis.
+This work leverages open-source intelligence and unsupervised machine learning techniques to analyse and assess the variation of frames within a dataset comprising social media posts, news reports and government documents surrounding the Rohingya crisis.
 
 ## Abstract
 
