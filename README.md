@@ -1,24 +1,10 @@
-# Framing the Rohingya Crisis: A Data-Driven Multi-country Analysis of Government-Media-Citizen Relations in Spectator Countries
+# A Data-Driven Multi-country Analysis Re rohingya
 
-This a doctoral research leverages unsupervised machine learning techniques to analyse and assess the variation of frames within a dataset comprising tweets, government publications, and news reports surrounding the Rohingya crisis.
+This a doctoral research leverages open-source intelligence and unsupervised machine learning techniques to analyse and assess the variation of frames within a dataset comprising social media posts, news reports and government documents surrounding the Rohingya crisis.
 
 ## Abstract
 
-This dissertation explores the framing of the Rohingya issue in Myanmar by governments, traditional media and social media in India, Bangladesh, and the United States, three nations that serve as conflict spectators and recipients of the Rohingya refugees. Critical media studies have documented the well-established relationship between the press and the state. However, there is a gap in the literature on whether online citizen frames are similarly implicative of a government’s national interest, and whether traditional media frames play a role. This research aimed to provide a deeper understanding of how government, traditional media, and online citizens interact over time, as well as whether social media offer a different form of framing for an ongoing conflict. How messages regarding the Rohingya conflict are framed in traditional news and on social media in observer countries serves as a benchmark for analysing how national interest facilitates the framing of online citizens. In this study, I utilised text-as-data techniques to determine the extent of this alignment by identifying issue-specific frames and sourcing patterns between traditional media and social media. In addition, I performed a correlation analysis to assess the alignment of frames between the government, traditional media, and online citizens. The extent to which a country’s national interest gets replicated among online citizen users depends on a complex interplay of factors, including the nature of the national interest and the degree of government influence on traditional media narratives. The results challenge the dominant narrative that online communication is liberating and raise questions about the hegemonic influence of social media in democratic states. 
-
+This work delves into the utilisation of Open Source Intelligence to analyse the Rohingya crisis in Myanmar using social media posts, geographic coordinates, news reports and government reports in India and Bangladesh. These nations not only observe the conflict but also host Rohingya refugees. Utilising text-as-data methods, the work identifies specific themes and sourcing patterns shared between mainstream and social media. It also employs correlation analysis to explore the alignment of narratives among governments, traditional media outlets, and online communities. This analysis reveals the complex factors that determine whether a country's national interest is mirrored in the online discourse of its citizens, including the nature of that interest and the government's influence over media and social media narratives.
 ## About this Repository
-This repository contains the PhD thesis written by **Jean Linis-Dinco**. This work was undertaken at the [**University of New South Wales, Canberra**](https://www.unsw.adfa.edu.au/). This thesis was supervised by Associate Professor [**Benjamin Turnbull**](https://www.unsw.adfa.edu.au/benjamin-turnbull) and [**Professor Stephen Doherty**](https://www.unsw.edu.au/staff/stephen-doherty).
 
-**Contact:** Jean Dinco (jcldinco@jcldinco.com) , or my [linkedin](https://www.linkedin.com/in/jeandinco/)
-
-I kindly ask that when citing this work, please use the following BibTeX entry:
-
-```
-@phdthesis{dincothesis2023,
-  title={Framing the Rohingya Crisis: A Data-Driven Multi-country Analysis of Government-Media-Citizen Relations in Spectator Countries},
-  author={Dinco, Jean},
-  school={University of New South Wales},
-  year={2023},
-  month={June},
-}
-```
+This repository contains work written by **Jean Linis-Dinco**.
